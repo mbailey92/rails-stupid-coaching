@@ -13,3 +13,10 @@
  *= require_tree .
  *= require_self
  */
+
+ card {
+  background-color: ;
+  border-left: 10px solid slategrey;
+  padding: 10px;
+  margin: 10px
+ }
